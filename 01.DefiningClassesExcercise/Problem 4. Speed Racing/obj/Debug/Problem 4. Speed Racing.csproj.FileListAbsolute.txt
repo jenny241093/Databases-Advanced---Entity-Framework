@@ -1,0 +1,6 @@
+C:\Softuni\DBAdvanced\GitHub\Databases-Advanced---Entity-Framework\01.DefiningClassesExcercise\Problem 4. Speed Racing\bin\Debug\Problem_4.Speed_Racing.exe.config
+C:\Softuni\DBAdvanced\GitHub\Databases-Advanced---Entity-Framework\01.DefiningClassesExcercise\Problem 4. Speed Racing\bin\Debug\Problem_4.Speed_Racing.exe
+C:\Softuni\DBAdvanced\GitHub\Databases-Advanced---Entity-Framework\01.DefiningClassesExcercise\Problem 4. Speed Racing\bin\Debug\Problem_4.Speed_Racing.pdb
+C:\Softuni\DBAdvanced\GitHub\Databases-Advanced---Entity-Framework\01.DefiningClassesExcercise\Problem 4. Speed Racing\obj\Debug\Problem 4. Speed Racing.csprojResolveAssemblyReference.cache
+C:\Softuni\DBAdvanced\GitHub\Databases-Advanced---Entity-Framework\01.DefiningClassesExcercise\Problem 4. Speed Racing\obj\Debug\Problem_4.Speed_Racing.exe
+C:\Softuni\DBAdvanced\GitHub\Databases-Advanced---Entity-Framework\01.DefiningClassesExcercise\Problem 4. Speed Racing\obj\Debug\Problem_4.Speed_Racing.pdb

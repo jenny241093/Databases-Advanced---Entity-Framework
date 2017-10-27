@@ -1,0 +1,6 @@
+C:\Softuni\DBAdvanced\GitHub\Databases-Advanced---Entity-Framework\01.DefiningClassesExcercise\Problem 2. Creating Constructors\bin\Debug\Problem_2.Creating_Constructors.exe.config
+C:\Softuni\DBAdvanced\GitHub\Databases-Advanced---Entity-Framework\01.DefiningClassesExcercise\Problem 2. Creating Constructors\bin\Debug\Problem_2.Creating_Constructors.exe
+C:\Softuni\DBAdvanced\GitHub\Databases-Advanced---Entity-Framework\01.DefiningClassesExcercise\Problem 2. Creating Constructors\bin\Debug\Problem_2.Creating_Constructors.pdb
+C:\Softuni\DBAdvanced\GitHub\Databases-Advanced---Entity-Framework\01.DefiningClassesExcercise\Problem 2. Creating Constructors\obj\Debug\Problem 2. Creating Constructors.csprojResolveAssemblyReference.cache
+C:\Softuni\DBAdvanced\GitHub\Databases-Advanced---Entity-Framework\01.DefiningClassesExcercise\Problem 2. Creating Constructors\obj\Debug\Problem_2.Creating_Constructors.exe
+C:\Softuni\DBAdvanced\GitHub\Databases-Advanced---Entity-Framework\01.DefiningClassesExcercise\Problem 2. Creating Constructors\obj\Debug\Problem_2.Creating_Constructors.pdb

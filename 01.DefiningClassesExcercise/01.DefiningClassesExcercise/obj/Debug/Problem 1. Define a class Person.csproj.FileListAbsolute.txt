@@ -1,0 +1,6 @@
+C:\Softuni\DBAdvanced\GitHub\01.DefiningClassesExcercise\01.DefiningClassesExcercise\bin\Debug\01.DefiningClassesExcercise.exe.config
+C:\Softuni\DBAdvanced\GitHub\01.DefiningClassesExcercise\01.DefiningClassesExcercise\bin\Debug\01.DefiningClassesExcercise.exe
+C:\Softuni\DBAdvanced\GitHub\01.DefiningClassesExcercise\01.DefiningClassesExcercise\bin\Debug\01.DefiningClassesExcercise.pdb
+C:\Softuni\DBAdvanced\GitHub\01.DefiningClassesExcercise\01.DefiningClassesExcercise\obj\Debug\Problem 1. Define a class Person.csprojResolveAssemblyReference.cache
+C:\Softuni\DBAdvanced\GitHub\01.DefiningClassesExcercise\01.DefiningClassesExcercise\obj\Debug\01.DefiningClassesExcercise.exe
+C:\Softuni\DBAdvanced\GitHub\01.DefiningClassesExcercise\01.DefiningClassesExcercise\obj\Debug\01.DefiningClassesExcercise.pdb

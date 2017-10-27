@@ -1,0 +1,6 @@
+C:\Softuni\DBAdvanced\GitHub\Databases-Advanced---Entity-Framework\01.DefiningClassesExcercise\Problem 3. Opinion Poll\bin\Debug\Problem_3.Opinion_Poll.exe.config
+C:\Softuni\DBAdvanced\GitHub\Databases-Advanced---Entity-Framework\01.DefiningClassesExcercise\Problem 3. Opinion Poll\bin\Debug\Problem_3.Opinion_Poll.exe
+C:\Softuni\DBAdvanced\GitHub\Databases-Advanced---Entity-Framework\01.DefiningClassesExcercise\Problem 3. Opinion Poll\bin\Debug\Problem_3.Opinion_Poll.pdb
+C:\Softuni\DBAdvanced\GitHub\Databases-Advanced---Entity-Framework\01.DefiningClassesExcercise\Problem 3. Opinion Poll\obj\Debug\Problem_3.Opinion_Poll.exe
+C:\Softuni\DBAdvanced\GitHub\Databases-Advanced---Entity-Framework\01.DefiningClassesExcercise\Problem 3. Opinion Poll\obj\Debug\Problem_3.Opinion_Poll.pdb
+C:\Softuni\DBAdvanced\GitHub\Databases-Advanced---Entity-Framework\01.DefiningClassesExcercise\Problem 3. Opinion Poll\obj\Debug\Problem 3. Opinion Poll.csprojResolveAssemblyReference.cache
