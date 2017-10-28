@@ -1,0 +1,9 @@
+
+*.config
+*.cache
+*.csproj
+*.pdb
+*.exe
+*.zip
+*.txt
+*.sln
