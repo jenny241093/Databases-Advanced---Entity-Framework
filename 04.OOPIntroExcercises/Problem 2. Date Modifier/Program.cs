@@ -4,12 +4,15 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Problem_2.Date_Modifier
+public class Program
 {
-    class Program
+    public static void Main(string[] args)
     {
-        static void Main(string[] args)
-        {
-        }
+        var firstDate = Console.ReadLine();
+        var lastDate = Console.ReadLine();
+        var dateModifier=new DateModifier(firstDate, lastDate);
+
+        Console.WriteLine(Math.Abs(dateModifier.CalculateDifferenceBetweenDates()));
     }
+
 }
