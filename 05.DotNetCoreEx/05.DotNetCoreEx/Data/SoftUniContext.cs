@@ -6,12 +6,12 @@ namespace P02_DatabaseFirst.Data
 {
     public  class SoftUniContext : DbContext
     {
-        public  DbSet<Address> Addresses { get; set; }
-        public  DbSet<Department> Departments { get; set; }
-        public  DbSet<Employee> Employees { get; set; }
-        public  DbSet<EmployeeProject> EmployeesProjects { get; set; }
-        public  DbSet<Project> Projects { get; set; }
-        public  DbSet<Town> Towns { get; set; }
+        public  DbSet<Address> Address { get; set; }
+        public  DbSet<Department> Department { get; set; }
+        public  DbSet<Employee> Employee { get; set; }
+        public  DbSet<EmployeeProject> EmployeeProject { get; set; }
+        public  DbSet<Project> Project { get; set; }
+        public  DbSet<Town> Town { get; set; }
 
         public SoftUniContext()
         {
