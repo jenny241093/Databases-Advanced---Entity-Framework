@@ -4614,21 +4614,22 @@
     },
     "P01_ProductsShop.Data/1.0.0": {
       "type": "project",
-      "path": "../P01_ProductsShop.Data/P01_ProductsShop.Data.csproj",
-      "msbuildProject": "../P01_ProductsShop.Data/P01_ProductsShop.Data.csproj"
+      "path": "../11.External Format Processing/P01_ProductsShop.Data/P01_ProductsShop.Data.csproj",
+      "msbuildProject": "../11.External Format Processing/P01_ProductsShop.Data/P01_ProductsShop.Data.csproj"
     },
     "P01_ProductsShop.Models/1.0.0": {
       "type": "project",
-      "path": "../P01_ProductsShop.Models/P01_ProductsShop.Models.csproj",
-      "msbuildProject": "../P01_ProductsShop.Models/P01_ProductsShop.Models.csproj"
+      "path": "../11.External Format Processing/P01_ProductsShop.Models/P01_ProductsShop.Models.csproj",
+      "msbuildProject": "../11.External Format Processing/P01_ProductsShop.Models/P01_ProductsShop.Models.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.0": [
+      "C:\\Softuni\\DBAdvanced\\GitHub\\Databases-Advanced---Entity-Framework\\11.External Format Processing\\P01_ProductsShop.Data\\P01_ProductsShop.Data.csproj",
+      "C:\\Softuni\\DBAdvanced\\GitHub\\Databases-Advanced---Entity-Framework\\11.External Format Processing\\P01_ProductsShop.Models\\P01_ProductsShop.Models.csproj",
       "Microsoft.EntityFrameworkCore >= 2.0.1",
       "Microsoft.NETCore.App >= 2.0.0",
-      "P01_ProductsShop.Data >= 1.0.0",
-      "P01_ProductsShop.Models >= 1.0.0"
+      "P01_ProductsShop.Data >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -4641,11 +4642,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jenny\\Source\\Repos\\P01_ProductsShop.App\\External Format Processing\\P01_ProductsShop.App.csproj",
+      "projectUniqueName": "C:\\Softuni\\DBAdvanced\\GitHub\\Databases-Advanced---Entity-Framework\\11.External Format Processing\\P01_ProductsShop.App\\P01_ProductsShop.App.csproj",
       "projectName": "P01_ProductsShop.App",
-      "projectPath": "C:\\Users\\Jenny\\Source\\Repos\\P01_ProductsShop.App\\External Format Processing\\P01_ProductsShop.App.csproj",
+      "projectPath": "C:\\Softuni\\DBAdvanced\\GitHub\\Databases-Advanced---Entity-Framework\\11.External Format Processing\\P01_ProductsShop.App\\P01_ProductsShop.App.csproj",
       "packagesPath": "C:\\Users\\Jenny\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jenny\\Source\\Repos\\P01_ProductsShop.App\\External Format Processing\\obj\\",
+      "outputPath": "C:\\Softuni\\DBAdvanced\\GitHub\\Databases-Advanced---Entity-Framework\\11.External Format Processing\\P01_ProductsShop.App\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -4664,11 +4665,14 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\Users\\Jenny\\Source\\Repos\\P01_ProductsShop.App\\P01_ProductsShop.Models\\P01_ProductsShop.Models.csproj": {
-              "projectPath": "C:\\Users\\Jenny\\Source\\Repos\\P01_ProductsShop.App\\P01_ProductsShop.Models\\P01_ProductsShop.Models.csproj"
+            "C:\\Softuni\\DBAdvanced\\GitHub\\Databases-Advanced---Entity-Framework\\11.External Format Processing\\P01_ProductsShop.Models\\P01_ProductsShop.Models.csproj": {
+              "projectPath": "C:\\Softuni\\DBAdvanced\\GitHub\\Databases-Advanced---Entity-Framework\\11.External Format Processing\\P01_ProductsShop.Models\\P01_ProductsShop.Models.csproj"
             },
-            "C:\\Users\\Jenny\\Source\\Repos\\P01_ProductsShop.App\\P01_ProductsShop.Data\\P01_ProductsShop.Data.csproj": {
-              "projectPath": "C:\\Users\\Jenny\\Source\\Repos\\P01_ProductsShop.App\\P01_ProductsShop.Data\\P01_ProductsShop.Data.csproj"
+            "C:\\Softuni\\DBAdvanced\\GitHub\\Databases-Advanced---Entity-Framework\\11.External Format Processing\\11.External Format Processing\\P01_ProductsShop.Data\\P01_ProductsShop.Data.csproj": {
+              "projectPath": "C:\\Softuni\\DBAdvanced\\GitHub\\Databases-Advanced---Entity-Framework\\11.External Format Processing\\11.External Format Processing\\P01_ProductsShop.Data\\P01_ProductsShop.Data.csproj"
+            },
+            "C:\\Softuni\\DBAdvanced\\GitHub\\Databases-Advanced---Entity-Framework\\11.External Format Processing\\P01_ProductsShop.Data\\P01_ProductsShop.Data.csproj": {
+              "projectPath": "C:\\Softuni\\DBAdvanced\\GitHub\\Databases-Advanced---Entity-Framework\\11.External Format Processing\\P01_ProductsShop.Data\\P01_ProductsShop.Data.csproj"
             }
           }
         }
@@ -4699,5 +4703,25 @@
         "warn": true
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1105",
+      "level": "Error",
+      "message": "Unable to find project information for 'C:\\Softuni\\DBAdvanced\\GitHub\\Databases-Advanced---Entity-Framework\\11.External Format Processing\\P01_ProductsShop.Models\\P01_ProductsShop.Models.csproj'. The project file may be invalid or missing targets required for restore.",
+      "libraryId": "C:\\Softuni\\DBAdvanced\\GitHub\\Databases-Advanced---Entity-Framework\\11.External Format Processing\\P01_ProductsShop.Models\\P01_ProductsShop.Models.csproj",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.0"
+      ]
+    },
+    {
+      "code": "NU1105",
+      "level": "Error",
+      "message": "Unable to find project information for 'C:\\Softuni\\DBAdvanced\\GitHub\\Databases-Advanced---Entity-Framework\\11.External Format Processing\\P01_ProductsShop.Data\\P01_ProductsShop.Data.csproj'. The project file may be invalid or missing targets required for restore.",
+      "libraryId": "C:\\Softuni\\DBAdvanced\\GitHub\\Databases-Advanced---Entity-Framework\\11.External Format Processing\\P01_ProductsShop.Data\\P01_ProductsShop.Data.csproj",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.0"
+      ]
+    }
+  ]
 }

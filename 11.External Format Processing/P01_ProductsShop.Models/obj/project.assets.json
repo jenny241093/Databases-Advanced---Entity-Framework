@@ -673,11 +673,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jenny\\Source\\Repos\\P01_ProductsShop.App\\P01_ProductsShop.Models\\P01_ProductsShop.Models.csproj",
+      "projectUniqueName": "C:\\Softuni\\DBAdvanced\\GitHub\\Databases-Advanced---Entity-Framework\\11.External Format Processing\\P01_ProductsShop.Models\\P01_ProductsShop.Models.csproj",
       "projectName": "P01_ProductsShop.Models",
-      "projectPath": "C:\\Users\\Jenny\\Source\\Repos\\P01_ProductsShop.App\\P01_ProductsShop.Models\\P01_ProductsShop.Models.csproj",
+      "projectPath": "C:\\Softuni\\DBAdvanced\\GitHub\\Databases-Advanced---Entity-Framework\\11.External Format Processing\\P01_ProductsShop.Models\\P01_ProductsShop.Models.csproj",
       "packagesPath": "C:\\Users\\Jenny\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jenny\\Source\\Repos\\P01_ProductsShop.App\\P01_ProductsShop.Models\\obj\\",
+      "outputPath": "C:\\Softuni\\DBAdvanced\\GitHub\\Databases-Advanced---Entity-Framework\\11.External Format Processing\\P01_ProductsShop.Models\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
